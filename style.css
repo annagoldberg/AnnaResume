@@ -1,0 +1,17 @@
+style.css
+h1 {
+    font-size: medium;
+}
+h2 {
+    font-size: medium;
+    box-shadow: 0px 5px 0 0px white;
+}
+body {
+    font-variant-caps: normal;
+    font-family: circular pro, arial;
+    background-color: #d4faff;
+    background-image: url(palms.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: hue;
+}
